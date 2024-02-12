@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T07:37:01.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_ZzxCehO_vfMgc8hZq3F" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T07:38:17.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="qa4SJZENZveXzOMuTlC6" version="23.1.2" type="github">
   <diagram name="Page-1" id="0K96PLR1MvwcvA66zJDP">
-    <mxGraphModel dx="989" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,7 +336,7 @@
         <mxCell id="ClxdacUayqJ115TwOgRP-130" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="LLZa8NrfcR5FdUvXYqES-58" vertex="1">
           <mxGeometry width="440.00000000000006" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LLZa8NrfcR5FdUvXYqES-29" value="&lt;b&gt;Mixing console (Yamaha MG-124C)&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;container=0;" vertex="1" parent="LLZa8NrfcR5FdUvXYqES-58">
+        <mxCell id="LLZa8NrfcR5FdUvXYqES-29" value="&lt;b&gt;Mixing console (Yamaha MG-124C)&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontColor=#000000;" vertex="1" parent="LLZa8NrfcR5FdUvXYqES-58">
           <mxGeometry y="120" width="440.00000000000006" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LLZa8NrfcR5FdUvXYqES-85" value="11/12" style="rounded=0;whiteSpace=wrap;html=1;container=0;direction=east;" vertex="1" parent="LLZa8NrfcR5FdUvXYqES-58">
@@ -556,6 +556,9 @@
         </mxCell>
         <mxCell id="LLZa8NrfcR5FdUvXYqES-139" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.headphones;pointerEvents=1;" vertex="1" parent="LLZa8NrfcR5FdUvXYqES-141">
           <mxGeometry x="12" y="12" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LLZa8NrfcR5FdUvXYqES-146" value="&lt;b&gt;TLISMute 3000&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;container=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
